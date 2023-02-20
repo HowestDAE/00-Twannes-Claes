@@ -1,0 +1,8 @@
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\bin\Debug\Console_Tests.exe.config
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\bin\Debug\Console_Tests.exe
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\bin\Debug\Console_Tests.pdb
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\obj\Debug\Console_Tests.csproj.AssemblyReference.cache
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\obj\Debug\Console_Tests.csproj.SuggestedBindingRedirects.cache
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\obj\Debug\Console_Tests.csproj.CoreCompileInputs.cache
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\obj\Debug\Console_Tests.exe
+D:\SEM_4\TOOL_DEV\Week1\Console_Tests\obj\Debug\Console_Tests.pdb
