@@ -20,7 +20,8 @@ namespace Console_Tests.Model
 		public Hero(string name) : this(name, "Nemesis", 1)
 		{
 			this.MyName= name;
-		}
+            
+        }
 
 		public Hero(string name, string myNemesis, int Level)
 		{
